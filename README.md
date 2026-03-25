@@ -15,13 +15,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=p3iz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3iz&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🚀 Activity
 ![p3iz's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=p3iz&theme=tokyonight)
