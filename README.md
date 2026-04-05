@@ -1,18 +1,18 @@
-# Hi there, I'm p3iz 👋
+# Hi there, I'm p3iz 👋 Abi.
 
 ### 🛠 Tech Stack
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-gray?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-gray?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-gray?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/p3iz)
+[![Discord](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/p3iz)
 > **Discord:** `p3iz`
 
 ---
 
-### 🚀 Streak
-![p3iz's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=p3iz&theme=tokyonight)
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=p3iz&color=lightgrey&style=for-the-badge)
