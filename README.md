@@ -15,4 +15,4 @@
 ---
 
 ### 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=p3iz&color=333333&style=for-the-badge)****
+![Profile Views](https://komarev.com/ghpvc/?username=p3iz&color=333333&style=for-the-badge)
