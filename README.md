@@ -1,4 +1,4 @@
-# Hi there, I'm p3iz 👋 Abi.
+# Hi there, I'm p3iz 👋.
 
 ### 🛠 Tech Stack
 ![Lua](https://img.shields.io/badge/lua-333333?style=for-the-badge&logo=lua&logoColor=white)
