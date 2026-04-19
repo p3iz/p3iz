@@ -1,4 +1,4 @@
-# Hi there, I'm p3iz 👋.
+# Hi there, I'm p3iz 👋 Abi.
 
 ### 🛠 Tech Stack
 ![Lua](https://img.shields.io/badge/lua-333333?style=for-the-badge&logo=lua&logoColor=white)
@@ -8,11 +8,24 @@
 
 ---
 
-### 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/p3iz)
-> **Discord:** `p3iz`
+### 🌐 Discord Presence
+<a href="https://discord.com/users/p3iz">
+  <img src="https://lanyard.webs.com/api/p3iz?bg=333333&borderRadius=10px" alt="p3iz Discord Profile" />
+</a>
+
+> **Discord ID:** `p3iz`
 
 ---
 
-### 📊 Profile Views
+### 📊 GitHub Stats & Views
 ![Profile Views](https://komarev.com/ghpvc/?username=p3iz&color=333333&style=for-the-badge)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=p3iz&show_icons=true&theme=dark&bg_color=333333&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🏆 Badges
+![Discord](https://img.shields.io/badge/Discord-p3iz-333333?style=for-the-badge&logo=discord&logoColor=white)
+![Developer](https://img.shields.io/badge/Role-Developer-333333?style=for-the-badge)
