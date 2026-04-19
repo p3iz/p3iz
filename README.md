@@ -9,11 +9,7 @@
 ---
 
 ### 🌐 Discord Presence
-<a href="https://discord.com/users/p3iz">
-  <img src="https://lanyard.webs.com/api/p3iz?bg=333333&borderRadius=10px" alt="p3iz Discord Profile" />
-</a>
-
-> **Discord ID:** `p3iz`
+[![Discord Presence](https://lanyard.kyrie25.dev/api/p3iz?bg=ffffff&waveColor=9f2248&clanbg=9f2248&hideProfile=false&hideSpotify=false&hideStatus=false&hideDecoration=false&showDisplayName=false&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=9f2248)](https://discord.com/users/1370527426165342279)
 
 ---
 
