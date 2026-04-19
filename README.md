@@ -10,7 +10,7 @@
 
 ### 🌐 Discord Presence
 ![Discord](https://img.shields.io/badge/Discord-p3iz-333333?style=for-the-badge&logo=discord&logoColor=white)
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1370527426165342279?bg=ffffff&waveColor=9f2248&clanbg=9f2248&hideProfile=false&hideSpotify=false&hideStatus=false&hideDecoration=false&showDisplayName=false&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=9f2248)](https://discord.com/users/1370527426165342279)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1370527426165342279?bg=ffffff&waveColor=9f2248&clanbg=9f2248&hideProfile=false&hideSpotify=false&hideStatus=false&hideDecoration=false&showDisplayName=false&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=9f2248)](https://discord.com/users/1370527426165342279)[!
 
 ---
 
