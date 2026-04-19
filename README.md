@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Discord Presence
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1370527426165342279?bg=000000&waveColor=2c2f33&clanbg=ffffff&hideProfile=false&hideStatus=false&hideDecoration=false&showDisplayName=true&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=2c2f33)](https://discord.com/users/1370527426165342279)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1370527426165342279?bg=000000&waveColor=2c2f33&clanbg=2c2f33&hideProfile=false&hideStatus=false&hideDecoration=false&showDisplayName=true&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=2c2f33&nameColor=gradient%23ffffff%23808080&avatarBorderColor=gradient%23ffffff%23808080)](https://discord.com/users/1370527426165342279)
 
 ---
 
