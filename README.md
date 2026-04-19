@@ -10,6 +10,7 @@
 
 ### 🌐 Discord Presence
 ![Discord](https://img.shields.io/badge/Discord-p3iz-333333?style=for-the-badge&logo=discord&logoColor=white)
+> **Discord:** `p3iz`
 
 ---
 
